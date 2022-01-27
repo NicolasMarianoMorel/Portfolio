@@ -1,0 +1,112 @@
+{
+  "main": {
+    "name": "Nicolás Mariano Morel",
+    "occupation": "Full-Stack Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "I have been passionate about computer science since I was a child, without realizing it when I finished school I studied Law and worked as an independent litigator for a couple of years until I was encouraged to start in the IT world. My experience has been mainly in the academic field and some freelance projects. I attended the Henry Full Stack bootcamp where I acquired solid knowledge of Javascript, NodeJS, ReactJS, Redux, Git, CSS and HTML, being able to put them into practice through the development of individual and group bootcamp projects. I have been able to develop great Soft-Skills both through Henry's Teaching Assistant program as well as throughout my professional career as a Lawyer.",
+    "contactmessage": "Get in touch with me and lets work togheter!",
+    "email": "nicolasmorel77@gmail.com",
+    "phone": "+54 (03537) 15513792",
+    "address": {
+      "street": "Pasaje Leonelli 548",
+      "city": "Bell Ville",
+      "state": "Córdoba, Argentina",
+      "zip": "2550"
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1hNmyQ9KtvvM83S8EN_HvfdBsciHXYp90/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nicolas-m-morel/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/nicolasmorel93/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/NicolasMarianoMorel",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Soy Henry",
+        "degree": "Web Full-Stack Developer",
+        "graduated": "January 2022",
+        "description": "Certified technologies: JavaScript, HTML, CSS, Node, React, Redux, SQL."
+      },
+      {
+        "school": "Universidad Nacional de Córdoba - Argentina",
+        "degree": "Lawyer",
+        "graduated": "March 2018",
+        "description": "Civil and labor laws"
+      }
+    ],
+    "work": [
+      {
+        "company": "DingBell App.",
+        "title": "Founder and Developer",
+        "years": "December 2021 - Present",
+        "description": "Has it happened to you that you arrive at a bar/restaurant and it is without tables, the staff takes time to serve you, there is an error in your order, or they bring you the wrong bill?   DingBell is a web application that seeks to solve these problems and more, help speed up the work of employees, keep track of your sales, and keep you on top of your customers experience."
+      }
+    ],
+    "skills": [
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "85%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "90%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "DingBell App",
+        "category": "Restaurant management",
+        "image": "DingBell_Logo.png",
+        "url": "https://vimeo.com/668481185"
+      },
+      {
+        "title": "Henry Food App",
+        "category": "Digital CookBook",
+        "image": "Henry.png",
+        "url": "https://vimeo.com/670519790"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Nicolas Morel es uno de los desarrolladores mas ágiles bajo presión que he conocido, su capacidad para lidiar con situaciones apremiantes en el desarrllo de aplicaciones aún me impresiona. Estuve trabajando junto a Nicolas en el desarrollo de la lógica más complicada de la aplicación y realmente no pude tener mejor compañero, su capacidad para generar soluciones de manera rápida y efectiva es algo que recalco. También muestra una adaptabilidad impresionante puesto que en el proyecto que estuvimos comenzó en el Back-End y terminó en los últimos sprint en Front-End. Cualquier equipo de desarrollo o empresa se beneficiaría de tenerlo en sus filas, no solo por sus tech-skills sino también por sus dotes de comunicación y trabajo en equipo.",
+        "user": "Juan Canelon"
+      }
+    ]
+  }
+}
