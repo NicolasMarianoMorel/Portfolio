@@ -94,6 +94,12 @@
         "url": "https://vimeo.com/668481185"
       },
       {
+        "title": "Netflix-Clon-Stripe",
+        "category": "Netflix Clon using Stripe extension of firebase",
+        "image": "Netflix_logo.png",
+        "url": "https://netflix-clone-bf301.web.app/"
+      },
+      {
         "title": "Henry Food App",
         "category": "Digital CookBook",
         "image": "Henry.png",
