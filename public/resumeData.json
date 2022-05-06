@@ -52,6 +52,12 @@
     ],
     "work": [
       {
+        "company": "Darwoft.",
+        "title": "Full-Stack Developer",
+        "years": "February 2022 - Present",
+        "description": "Currently working on the project Tienda Claro using Javascript, React and Next for the front, and Node, Express and Nest. for the back."
+      },
+      {
         "company": "DingBell App.",
         "title": "Founder and Developer",
         "years": "December 2021 - Present",
